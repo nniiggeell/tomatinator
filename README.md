@@ -61,6 +61,8 @@ Project log:
 ![image](https://user-images.githubusercontent.com/77267877/120109674-fe462180-c19c-11eb-8628-765898bfd7e4.png)
 ![image](https://user-images.githubusercontent.com/77267877/120109706-26358500-c19d-11eb-8d5f-00bc754c668d.png)
 
+Total team hours : 102 hours
+
 
 
 
