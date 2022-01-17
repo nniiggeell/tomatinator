@@ -1,5 +1,4 @@
-Submission for milestone 3 USE THIS!!!
-Milestone 2 Submission
+Milestone 2 Submission for Orbital
 
 Team Name: 
 
